@@ -1,12 +1,9 @@
-- 👋 Hi, I’m @adnan7398
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👋 Hi there!
+I’m currently pursuing a B.Tech in Computer Science and Engineering (CSE).
+I have experience working with MERN Stack, Next.js, Turborepo, and DevOps.
 
-<!---
-adnan7398/adnan7398 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔹 Passionate about full-stack development and scalable architectures.
+🔹 Building and optimizing modern web applications.
+🔹 Always learning and exploring new technologies.
+
+📫 Feel free to connect with me!
