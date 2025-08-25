@@ -200,7 +200,7 @@
   
   <!-- Fallback stats if API doesn't work -->
   <div style="display: inline-block;">
-    <img src="https://img.shields.io/badge/Current%20Rating-1200+-00D4AA?style=for-the-badge" alt="Current Rating" />
+    <img src="https://img.shields.io/badge/Current%20Rating-1422+-00D4AA?style=for-the-badge" alt="Current Rating" />
     <img src="https://img.shields.io/badge/Max%20Rating-1400+-00D4AA?style=for-the-badge" alt="Max Rating" />
     <img src="https://img.shields.io/badge/Problems%20Solved-200+-00D4AA?style=for-the-badge" alt="Problems Solved" />
   </div>
@@ -217,7 +217,6 @@
   <h3>🏆 Codeforces Achievements</h3>
   <img src="https://img.shields.io/badge/Pupil-00D4AA?style=for-the-badge" alt="Pupil" />
   <img src="https://img.shields.io/badge/Specialist-00D4AA?style=for-the-badge" alt="Specialist" />
-  <img src="https://img.shields.io/badge/Expert-00D4AA?style=for-the-badge" alt="Expert" />
 </div>
 
 ## 🎯 Current Focus
