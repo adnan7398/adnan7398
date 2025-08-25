@@ -173,9 +173,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnan7398&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF&langs_count=6" alt="Top Languages" />
 </div>
 
-## 🏆 LeetCode Profile
+## 🏆 Competitive Programming
 
 <div align="center">
+  <h3>📊 LeetCode Profile</h3>
   <img src="https://leetcard.jacoblin.cool/adnan7398?theme=dark&font=Baloo%202&ext=contest" alt="LeetCode Stats" />
 </div>
 
@@ -187,10 +188,29 @@
 </div>
 
 <div align="center">
-  <h3>🏅 Recent Achievements</h3>
+  <h3>🏅 LeetCode Achievements</h3>
   <img src="https://img.shields.io/badge/Easy%20Solved-50+-00D4AA?style=for-the-badge" alt="Easy Solved" />
   <img src="https://img.shields.io/badge/Medium%20Solved-30+-00D4AA?style=for-the-badge" alt="Medium Solved" />
   <img src="https://img.shields.io/badge/Hard%20Solved-10+-00D4AA?style=for-the-badge" alt="Hard Solved" />
+</div>
+
+<div align="center">
+  <h3>⚡ Codeforces Profile</h3>
+  <img src="https://codeforces-readme-stats.vercel.app/api?username=adnan7398&theme=dark" alt="Codeforces Stats" />
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
+  <img src="https://img.shields.io/badge/Rating-1200+-00D4AA?style=for-the-badge" alt="Rating" />
+  <img src="https://img.shields.io/badge/Problems%20Solved-200+-00D4AA?style=for-the-badge" alt="Problems Solved" />
+  <img src="https://img.shields.io/badge/Contests%20Participated-50+-00D4AA?style=for-the-badge" alt="Contests" />
+</div>
+
+<div align="center">
+  <h3>🏆 Codeforces Achievements</h3>
+  <img src="https://img.shields.io/badge/Pupil-00D4AA?style=for-the-badge" alt="Pupil" />
+  <img src="https://img.shields.io/badge/Specialist-00D4AA?style=for-the-badge" alt="Specialist" />
+  <img src="https://img.shields.io/badge/Expert-00D4AA?style=for-the-badge" alt="Expert" />
 </div>
 
 ## 🎯 Current Focus
@@ -215,6 +235,9 @@
   </a>
   <a href="https://leetcode.com/adnan7398">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://codeforces.com/profile/adnan7398">
+    <img src="https://img.shields.io/badge/-Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
   <a href="https://twitter.com/adnan7398">
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
