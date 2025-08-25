@@ -23,31 +23,26 @@
 ## 🚀 About Me
 
 <div align="center">
-  <img src="https://img.shields.io/badge/🔭%20Passionate%20about%20building%20innovative%20solutions-00D4AA?style=for-the-badge&logo=lightbulb&logoColor=white" />
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/🌱%20Currently%20exploring%20AI/ML%20and%20Web%20Development-00D4AA?style=for-the-badge&logo=python&logoColor=white" />
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/💡%20Love%20working%20on%20projects%20that%20make%20a%20difference-00D4AA?style=for-the-badge&logo=heart&logoColor=white" />
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/🎯%20Always%20eager%20to%20learn%20new%20technologies-00D4AA?style=for-the-badge&logo=book&logoColor=white" />
-</div>
-
-<div align="center">
-  <a href="mailto:123adnansiddiqui@gmail.com">
-    <img src="https://img.shields.io/badge/📫%20Reach%20me%20at:%20123adnansiddiqui@gmail.com-00D4AA?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://drive.google.com/file/d/13u5xu4NkwUXDg-juR18gG1aUo_yOHSqa/view?usp=drive_link">
-    <img src="https://img.shields.io/badge/📄%20View%20My%20Resume-00D4AA?style=for-the-badge&logo=google-drive&logoColor=white" />
-  </a>
+  <p>
+    I'm a passionate <strong>Full Stack Developer</strong> and <strong>AI Enthusiast</strong> who loves building innovative solutions that make a real impact. 
+    Currently pursuing my B.Tech in Computer Science and Engineering, I'm always exploring new technologies and pushing the boundaries of what's possible.
+  </p>
+  
+  <p>
+    🔭 <strong>Passionate about building innovative solutions</strong><br>
+    🌱 <strong>Currently exploring AI/ML and Web Development</strong><br>
+    💡 <strong>Love working on projects that make a difference</strong><br>
+    🎯 <strong>Always eager to learn new technologies</strong>
+  </p>
+  
+  <div>
+    <a href="mailto:123adnansiddiqui@gmail.com">
+      <img src="https://img.shields.io/badge/📧%20Email-00D4AA?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://drive.google.com/file/d/13u5xu4NkwUXDg-juR18gG1aUo_yOHSqa/view?usp=drive_link">
+      <img src="https://img.shields.io/badge/📄%20Resume-00D4AA?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" />
+    </a>
+  </div>
 </div>
 
 ## 🛠️ Tech Stack
