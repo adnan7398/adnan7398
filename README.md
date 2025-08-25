@@ -1,7 +1,13 @@
-# Hey there 👋, I'm Adnan Siddiqui!
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hey there, I'm Mohd Adnan!
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00D4AA&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI+Enthusiast;Problem+Solver;Always+Learning" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/👨‍💻%20Full%20Stack%20Developer-00D4AA?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/🤖%20AI%20Enthusiast-00D4AA?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/🚀%20Problem%20Solver-00D4AA?style=for-the-badge&logo=rocket&logoColor=white" />
 </div>
 
 <div align="center">
@@ -10,14 +16,39 @@
   <img src="https://img.shields.io/badge/Location-Worldwide-00D4AA?style=flat-square" alt="Location" />
 </div>
 
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adnan7398&theme=radical" alt="Profile Details" />
+</div>
+
 ## 🚀 About Me
 
-- 🔭 I'm passionate about building innovative solutions
-- 🌱 Currently exploring **AI/ML** and **Web Development**
-- 💡 Love working on projects that make a difference
-- 🎯 Always eager to learn new technologies
-- 📫 Reach me at: **123adnansiddiqui@gmail.com**
-- 📄 **[View My Resume](https://drive.google.com/file/d/13u5xu4NkwUXDg-juR18gG1aUo_yOHSqa/view?usp=drive_link)**
+<div align="center">
+  <img src="https://img.shields.io/badge/🔭%20Passionate%20about%20building%20innovative%20solutions-00D4AA?style=for-the-badge&logo=lightbulb&logoColor=white" />
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/🌱%20Currently%20exploring%20AI/ML%20and%20Web%20Development-00D4AA?style=for-the-badge&logo=python&logoColor=white" />
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/💡%20Love%20working%20on%20projects%20that%20make%20a%20difference-00D4AA?style=for-the-badge&logo=heart&logoColor=white" />
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/🎯%20Always%20eager%20to%20learn%20new%20technologies-00D4AA?style=for-the-badge&logo=book&logoColor=white" />
+</div>
+
+<div align="center">
+  <a href="mailto:123adnansiddiqui@gmail.com">
+    <img src="https://img.shields.io/badge/📫%20Reach%20me%20at:%20123adnansiddiqui@gmail.com-00D4AA?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://drive.google.com/file/d/13u5xu4NkwUXDg-juR18gG1aUo_yOHSqa/view?usp=drive_link">
+    <img src="https://img.shields.io/badge/📄%20View%20My%20Resume-00D4AA?style=for-the-badge&logo=google-drive&logoColor=white" />
+  </a>
+</div>
 
 ## 🛠️ Tech Stack
 
