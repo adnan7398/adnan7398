@@ -169,6 +169,26 @@
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=adnan7398&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF" alt="Wakatime Stats" />
 </div>
 
+## 🏆 LeetCode Profile
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/adnan7398?theme=dark&font=Baloo%202&ext=contest" alt="LeetCode Stats" />
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/Problems%20Solved-100+-00D4AA?style=for-the-badge" alt="Problems Solved" />
+  <img src="https://img.shields.io/badge/Contest%20Rating-1500+-00D4AA?style=for-the-badge" alt="Contest Rating" />
+  <img src="https://img.shields.io/badge/Streak-30+%20Days-00D4AA?style=for-the-badge" alt="Streak" />
+</div>
+
+<div align="center">
+  <h3>🏅 Recent Achievements</h3>
+  <img src="https://img.shields.io/badge/Easy%20Solved-50+-00D4AA?style=for-the-badge" alt="Easy Solved" />
+  <img src="https://img.shields.io/badge/Medium%20Solved-30+-00D4AA?style=for-the-badge" alt="Medium Solved" />
+  <img src="https://img.shields.io/badge/Hard%20Solved-10+-00D4AA?style=for-the-badge" alt="Hard Solved" />
+</div>
+
 ## 🎯 Current Focus
 
 - 🔥 Building scalable web applications
@@ -188,6 +208,9 @@
   </a>
   <a href="https://linkedin.com/in/adnan7398">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/adnan7398">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
   <a href="https://twitter.com/adnan7398">
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
