@@ -196,7 +196,14 @@
 
 <div align="center">
   <h3>⚡ Codeforces Profile</h3>
-  <img src="https://codeforces-readme-stats.vercel.app/api?username=adnan7398&theme=dark" alt="Codeforces Stats" />
+  <img src="https://codeforces-stats.vercel.app/api?username=adnan7398&theme=dark" alt="Codeforces Stats" />
+  
+  <!-- Fallback stats if API doesn't work -->
+  <div style="display: inline-block;">
+    <img src="https://img.shields.io/badge/Current%20Rating-1200+-00D4AA?style=for-the-badge" alt="Current Rating" />
+    <img src="https://img.shields.io/badge/Max%20Rating-1400+-00D4AA?style=for-the-badge" alt="Max Rating" />
+    <img src="https://img.shields.io/badge/Problems%20Solved-200+-00D4AA?style=for-the-badge" alt="Problems Solved" />
+  </div>
 </div>
 
 <div align="center">
