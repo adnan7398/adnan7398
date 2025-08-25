@@ -166,7 +166,11 @@
 ## 📊 Additional Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=adnan7398&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF" alt="Wakatime Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adnan7398&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4AA&icon_color=00D4AA&text_color=FFFFFF&include_all_commits=true&count_private=true&hide=contribs,issues" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnan7398&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF&langs_count=6" alt="Top Languages" />
 </div>
 
 ## 🏆 LeetCode Profile
